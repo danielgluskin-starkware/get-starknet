@@ -1,5 +1,16 @@
 # get-starknet
 
+## 3.4.0
+
+### Minor Changes
+
+- c3035e3: test 4.
+
+### Patch Changes
+
+- Updated dependencies [c3035e3]
+  - get-starknet-core@3.4.0
+
 ## 3.3.0
 
 ### Minor Changes
