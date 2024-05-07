@@ -69,6 +69,8 @@ export const connect = async ({
     return enableWithVersion(wallet)
   }
 
+  console.log("test")
+
   const installedWallets = await sn.getAvailableWallets(restOptions)
   if (
     modalMode === "canAsk" &&
