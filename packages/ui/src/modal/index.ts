@@ -50,6 +50,8 @@ export default async function show({
       ...preAuthorizedWallets,
     ])
 
+    console.log("EEE")
+
     const modal = new Modal({
       target: document.body,
       props: {
