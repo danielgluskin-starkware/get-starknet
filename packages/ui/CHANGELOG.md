@@ -1,5 +1,16 @@
 # get-starknet
 
+## 3.4.0
+
+### Minor Changes
+
+- 3862369: Test feat 3.
+
+### Patch Changes
+
+- Updated dependencies [3862369]
+  - get-starknet-core@3.4.0
+
 ## 3.3.0
 
 ### Minor Changes
