@@ -83,6 +83,8 @@ export const connect = async ({
     } // otherwise fallback to modal
   }
 
+  console.log("$$$$")
+
   const discoveryWallets = await sn.getDiscoveryWallets(restOptions)
 
   const discoveryWalletsByStoreVersion: WalletProviderWithStoreVersion[] =
