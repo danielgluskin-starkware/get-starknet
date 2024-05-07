@@ -121,6 +121,8 @@ export function getStarknet(
         return null
       }
 
+      console.log("DDDD");
+
       return firstPreAuthorizedWallet
     },
     enable: async (wallet, options) => {
