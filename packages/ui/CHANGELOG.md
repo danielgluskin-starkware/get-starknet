@@ -1,5 +1,16 @@
 # get-starknet
 
+## 3.6.0
+
+### Minor Changes
+
+- fe77599: remove test 5
+
+### Patch Changes
+
+- Updated dependencies [fe77599]
+  - get-starknet-core@3.6.0
+
 ## 3.5.0
 
 ### Minor Changes
