@@ -156,7 +156,7 @@ function createMetaMaskProviderWrapper(
       handleEvent: E["handler"],
     ): void {
       if (!metaMaskSnapWallet) {
-        throw new Error("Wallet not enabled")
+        throw new Error("Wallet not enabled!")
       }
       // @ts-ignore: Metamask currently doesn't support on method
       return metaMaskSnapWallet.on(event, handleEvent)
