@@ -4,6 +4,13 @@
 
 ### Minor Changes
 
+- 7a8eec8: Test test test.
+- 080018c: Test test test 3.
+
+## 3.4.0
+
+### Minor Changes
+
 - Added Argent Mobile to the L2 Wallet Connect popup and rearranged the wallet
   order in the L1 popup.
 

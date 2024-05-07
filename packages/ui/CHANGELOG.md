@@ -1,5 +1,17 @@
 # get-starknet
 
+## 3.4.0
+
+### Minor Changes
+
+- 080018c: Test test test 3.
+
+### Patch Changes
+
+- Updated dependencies [7a8eec8]
+- Updated dependencies [080018c]
+  - get-starknet-core@3.4.0
+
 ## 3.3.0
 
 ### Minor Changes
