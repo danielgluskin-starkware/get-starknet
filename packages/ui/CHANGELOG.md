@@ -1,5 +1,16 @@
 # get-starknet
 
+## 3.4.0
+
+### Minor Changes
+
+- dbee3ef: Support MetaMask Starknet snap - test
+
+### Patch Changes
+
+- Updated dependencies [dbee3ef]
+  - get-starknet-core@3.4.0
+
 ## 3.3.0
 
 ### Minor Changes
