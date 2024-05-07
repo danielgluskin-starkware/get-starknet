@@ -1,5 +1,12 @@
 # get-starknet-core
 
+## 3.5.0
+
+### Minor Changes
+
+- f02693d: remove test 3
+- ad064d0: Support MetaMask Starknet snap TEST1111
+
 ## 3.4.0
 
 ### Minor Changes
