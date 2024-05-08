@@ -1,5 +1,16 @@
 # get-starknet
 
+## 3.7.0
+
+### Minor Changes
+
+- 125ec2f: remove test 6 remove test 6
+
+### Patch Changes
+
+- Updated dependencies [125ec2f]
+  - get-starknet-core@3.7.0
+
 ## 3.6.0
 
 ### Minor Changes
