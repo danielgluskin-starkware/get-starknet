@@ -127,7 +127,7 @@ export function getStarknet(
         type: "wallet_getPermissions",
       })
       if (!permissions?.includes(Permission.Accounts)) {
-        throw new Error("Failed to connect to wallet")
+        throw new Error("Failed to connect to wallet!")
       }
       lastConnectedStore.set(wallet.id)
       return wallet
