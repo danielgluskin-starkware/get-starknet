@@ -1,5 +1,11 @@
 # get-starknet-core
 
+## 4.0.0
+
+### Minor Changes
+
+- 963212e: dev test 1
+
 ## 4.0.0-next.4
 
 ### Minor Changes

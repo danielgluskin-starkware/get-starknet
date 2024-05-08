@@ -1,5 +1,16 @@
 # get-starknet
 
+## 4.0.0
+
+### Minor Changes
+
+- 963212e: dev test 1
+
+### Patch Changes
+
+- Updated dependencies [963212e]
+  - get-starknet-core@4.0.0
+
 ## 4.0.0-next.2
 
 ### Patch Changes
