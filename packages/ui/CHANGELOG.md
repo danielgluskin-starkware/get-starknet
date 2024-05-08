@@ -1,5 +1,16 @@
 # get-starknet
 
+## 4.1.0
+
+### Minor Changes
+
+- c7dc526: Spec update
+
+### Patch Changes
+
+- Updated dependencies [c7dc526]
+  - get-starknet-core@4.1.0
+
 ## 4.0.0-next.2
 
 ### Patch Changes
