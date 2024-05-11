@@ -1,5 +1,21 @@
 # get-starknet-core
 
+## 5.0.0
+
+### Major Changes
+
+- 4a477fd: new wallet snip
+
+### Minor Changes
+
+- 5a31414: imported types
+
+### Patch Changes
+
+- 9c3b389: fix tests
+- c5fd8a0: prerelease
+- a9bf7d3: pre-release
+
 ## 4.0.0-next.4
 
 ### Minor Changes

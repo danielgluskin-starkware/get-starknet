@@ -1,5 +1,22 @@
 # get-starknet
 
+## 5.0.0
+
+### Major Changes
+
+- 4a477fd: new wallet snip
+
+### Patch Changes
+
+- c5fd8a0: prerelease
+- a9bf7d3: pre-release
+- Updated dependencies [5a31414]
+- Updated dependencies [4a477fd]
+- Updated dependencies [9c3b389]
+- Updated dependencies [c5fd8a0]
+- Updated dependencies [a9bf7d3]
+  - get-starknet-core@5.0.0
+
 ## 4.0.0-next.2
 
 ### Patch Changes
